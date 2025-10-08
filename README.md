@@ -67,11 +67,6 @@ Mọi ý tưởng, góp ý hoặc hợp tác xin gửi về:
 
 ---
 
-## 🐉 Hình ảnh minh họa (Demo)
-![Game Screenshot](https://github.com/yourusername/folktales-ai-game/assets/demo-screenshot.png)
-
----
-
 ## ⭐ Hãy ủng hộ dự án!
 Nếu bạn yêu thích ý tưởng này, hãy:
 - ⭐ Star repository này  
